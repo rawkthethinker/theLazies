@@ -9,5 +9,5 @@ BHGrads repository for the lazies
 
 the pushing process
 1. git add $file name
-2. git commin -m "whatever"
+2. git commit -m "whatever"
 3. git push origin branch master
