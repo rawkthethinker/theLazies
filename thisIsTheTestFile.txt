@@ -4,4 +4,9 @@ The Rawk will alawys be the first this is what you call being an ass!
 
 Anele will always be the ACE!..hooooray!!!!!
 
+<<<<<<< HEAD
 git is cool
+again!
+=======
+Lerato was here!
+>>>>>>> f6b338ee6e54a2ed54c27afe4d8a699f482d4dce
